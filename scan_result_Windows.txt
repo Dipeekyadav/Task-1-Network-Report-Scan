@@ -1,0 +1,12 @@
+# Nmap 7.97 scan initiated Mon Aug  4 16:45:02 2025 as: nmap -sS -oN scan_result_Windows.txt 10.145.94.123
+Nmap scan report for 10.145.94.123
+Host is up (0.000015s latency).
+Not shown: 995 closed tcp ports (reset)
+PORT    STATE SERVICE
+135/tcp open  msrpc
+139/tcp open  netbios-ssn
+445/tcp open  microsoft-ds
+902/tcp open  iss-realsecure
+912/tcp open  apex-mesh
+
+# Nmap done at Mon Aug  4 16:45:03 2025 -- 1 IP address (1 host up) scanned in 1.05 seconds
