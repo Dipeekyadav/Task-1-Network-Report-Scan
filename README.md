@@ -36,7 +36,7 @@ To scan the local network for open TCP ports using Nmap and analyze potential se
 | 53   | DNS     | Domain Name System       | ⚠️ Medium – Secure if properly configured |
 
 ## 🖼️ Screenshots
-All screenshots are available in the `/screenshots/` folder:
+All screenshots are available in the 'Screenshot for Windows' and 'Screenshot for Linux' folder:
 - Windows and Linux terminal scans
 - Nmap installation confirmation
 - IP range detection
@@ -44,7 +44,8 @@ All screenshots are available in the `/screenshots/` folder:
 ## 📁 Files Included
 - `scan_results_windows.txt` – Full Nmap output from Windows
 - `scan_results_kali.txt` – Full Nmap output from Kali Linux
-- `/screenshots/` – Folder containing all images
+- 'Screenshot for Windows.pdf'
+- 'Screenshot for Linux.pdf'
 
 ## ✅ Conclusion
 This task helped identify live hosts and exposed ports within the local network. Ports like 445, 135, and 139 pose potential security risks and should be monitored or blocked if unnecessary.
